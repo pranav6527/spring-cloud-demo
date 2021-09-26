@@ -8,6 +8,6 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/igorkosandyak/demo-config-server.git
+          uri: https://github.com/pranav6527/demo-config-server.git
           clone-on-start: true
 
